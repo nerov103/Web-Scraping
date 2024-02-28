@@ -20,6 +20,4 @@ Screenshot 3
 
 used by people and businesses who want to make use of publicly available web data to generate valuable insights and make smarter decisions.
 
-## all write
 
-Thanks!!
